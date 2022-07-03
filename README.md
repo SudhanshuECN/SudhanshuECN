@@ -2,7 +2,7 @@
 - 👀 I’m interested in CFD, machine learning 
 - 🌱 I’m currently learning LES, wall modelling, etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sudhanshulvs30@gmail.com
 
 <!---
 SudhanshuECN/SudhanshuECN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
